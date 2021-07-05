@@ -26,3 +26,12 @@ or
 
 ![FunkinSwitchAlt](https://user-images.githubusercontent.com/85010269/124506389-cea5bd00-ddcb-11eb-9c33-99ad9f42af84.png)
 
+
+
+See this video:
+
+
+
+
+https://user-images.githubusercontent.com/85010269/124506477-03b20f80-ddcc-11eb-9bde-d62904d2db97.mov
+
