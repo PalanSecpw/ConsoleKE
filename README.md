@@ -1,11 +1,12 @@
 # ConsoleKE
-Console version of Kade Engine.
+Console version of Kade Engine. I will publicate here in a day or two.
 
 
 
 # Features only-for-console
 
 (Coming Soon) Wireless Modding: use your local KE copy for sending your mod to Console KE and play it!
+(Coming Soon) Week 7: The Revenge Of Dad
 
 
 # Changes
