@@ -1,5 +1,5 @@
 # ConsoleKE
-Console version of Kade Engine. I will publicate here in a day or two.
+Console version of Kade Engine. I will publicate the files here in a day or two.
 
 
 
